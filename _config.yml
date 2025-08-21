@@ -1,0 +1,13 @@
+title: CP Course Level 1
+description: "A starter course in competitive programming"
+theme: minima
+markdown: kramdown
+
+url: "https://okhalifa-official.github.io"
+baseurl: "/CP-L1_PTA"
+
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
