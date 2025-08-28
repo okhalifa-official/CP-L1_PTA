@@ -120,6 +120,45 @@ while (true) {
 }
 ```
 
+---
+
+### Problems
+#### print all even numbers 1 -> 100
+```cpp
+for (int i=2; i<=100; i+=2){
+   cout<< i << endl;
+}
+```
+#### print all odd numbers 1 -> 100
+```cpp
+for (int i=1; i<=100; i+=2){
+   cout<< i << endl;
+}
+```
+#### print all numbers divisible by 3
+```cpp
+for (int i=1; i<=100; i++){
+   if(i % 3 == 0)
+      cout<< i << endl;
+}
+for (int i=3; i<=100; i+=3){
+   cout<< i << endl;
+}
+```
+#### print all numbers divisible by 3 or 5
+```cpp
+for(int i=1; i<=100; i++){
+   if(i % 3 == 0 || i % 5 == 0){
+      cout << i << endl;
+   }
+}
+```
+#### print all numbers divisible by 3 and 5 and 7
+```cpp
+for(int i=3*5*7; i<=1000; i+=3*5*7){
+   cout << i << endl;
+}
+```
 
 🌱 **Small progress each day adds up to big results.**
 Keep going — consistency is your superpower!
