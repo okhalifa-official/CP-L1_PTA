@@ -14,6 +14,7 @@ Here are the available lectures:
 - [Lecture 1](Lec1.md)
 - [Lecture 2](Lec2.md)
 - [Lecture 3](Lec3.md)
+- [Lecture 4](Lec4.md)
 - more lectures coming soon!
 
 ---
